@@ -5,7 +5,7 @@ This directory contains a small nanoc project that uses Compass. It is based on 
 
 Places of interest:
 
-* `compass.rb` which contains the Compass configuration
+* `compass_config.rb` which contains the Compass configuration
 * `content/style` which contains the Sass stylesheets (and a partial)
 * `Rules` which contains the rules for processing the Sass stylesheets
 
