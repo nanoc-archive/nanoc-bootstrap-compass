@@ -5,7 +5,7 @@ This directory contains a small nanoc project that uses Compass. It is based on 
 
 Places of interest:
 
-* `compass_config.rb` which contains the Compass configuration
+* `config.rb` which contains the Compass configuration
 * `content/style` which contains the Sass stylesheets (and a partial)
 * `Rules` which contains the rules for processing the Sass stylesheets
 
@@ -16,4 +16,4 @@ Before you do anything, make sure that you have Compass installed. Issue `gem in
 
 To compile the site, simply use `nanoc3 co`.
 
-You may want to edit the Compass configuration (`compass.rb`) to suit your needs.
+You may want to edit the Compass configuration (`config.rb`) to suit your needs.
