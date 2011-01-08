@@ -10,6 +10,10 @@ compile '/style/*/' do
   filter :sass, Compass.sass_engine_options
 end
 
+compile '/stylesheets/partials/*/' do
+  # don’t compile partials
+end
+
 compile '*' do
   filter :erb
   layout 'default'
