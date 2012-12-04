@@ -1,7 +1,7 @@
 nanoc+Compass bootstrap project
 ===============================
 
-This directory contains a small nanoc project that uses Compass. It is based on a brand new nanoc site generated using `nanoc3 create_site`.
+This directory contains a small nanoc project that uses Compass. It is based on a brand new nanoc site generated using `nanoc create_site`.
 
 Places of interest:
 
@@ -14,6 +14,6 @@ How To Use
 
 Before you do anything, make sure that you have Compass installed. Issue `gem install compass` if you haven't already or if you're unsure.
 
-To compile the site, simply use `nanoc3 co`.
+To compile the site, simply use `nanoc co`.
 
 You may want to edit the Compass configuration (`config.rb`) to suit your needs.
